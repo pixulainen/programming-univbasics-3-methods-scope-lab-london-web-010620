@@ -6,4 +6,4 @@ end
 def toadstool
   puts status
 end
-$phrase = 
+$phrase = "It's-a me, Mario!"
